@@ -1,0 +1,43 @@
+![Professional Business Theme](http://responsivewebinc.com/premium/ericka/wrap/colors.png)
+
+## Ericka - 6 colors & 40 pages - Responsive & Professional. Don't miss it. 
+
+![Professional Bootstrap Theme](http://responsivewebinc.com/premium/ericka/wrap/1.png) ![Professional Bootstrap Theme](http://responsivewebinc.com/premium/ericka/wrap/2.png) ![Timeline Theme Theme](http://responsivewebinc.com/premium/ericka/wrap/3.png) ![Coming soon Theme](http://responsivewebinc.com/premium/ericka/wrap/4.png) ![Support  Theme](http://responsivewebinc.com/premium/ericka/wrap/5.png) ![Review Theme](http://responsivewebinc.com/premium/ericka/wrap/6.png) ![Pricing table Theme](http://responsivewebinc.com/premium/ericka/wrap/7.png) ![Projects Theme](http://responsivewebinc.com/premium/ericka/wrap/8.png)
+
+###**List of Pages:**
+
+##### Home page, Review Page, Timeline Page, Resume page, Support page, Process page, Coming Soon page, Projects page, Login Page, Registration page, About page, Service page, Pricing Table page, Careers page, FAQ page, 404 page, Portfolio page, Products page, Events page, Gallery, Team page, Clients page, Features page, Sitemap page, testimonials page, Contact page, Blog & Blog Single layout.
+
+Ericka is a HTML5/CSS3 responsive theme based on Twitter Bootstrap. It comes 40 different layouts and supports all features of twitter bootstrap. You can easily add extra options like slider, accordion, tool tip, model box, etc., on the fly. It also has 6 different colors namely Red, Orange, Brown, Blue, Pink and Green. This theme works great on almost all types of sites. Most of the pages in this theme are very unique which makes Ericka stand out from Crowd. If you are planning to buy theme for your site, then consider Ericka. 
+
+#### **[Check out my themes (< $8)](https://wrapbootstrap.com/user/ashobiz "Responsive Themes")**
+
+
+**Features:**
+
+  1. 40 Pages & 6 Colors. 
+  2. Fully Responsive and Professional.
+  3. Based on Twitter Bootstrap.
+  4. Supports all bootstrap features.
+  5. Supports Font awesome icons and Google web fonts.
+  6. Filterable Portfolio & Gallery.
+  7. Cool 4 column pricing table.
+  8. 3 different Blog Layout.
+  9. Inbuilt Resume page.
+  10. Inbuilt Coming soon and 404 page.
+  11. Inbuilt review page.
+  12. Registration and Login form.
+
+and much more.
+
+**Credits:**
+
+  1. Photos : http://pdphoto.org
+  2. HTML5 Sive : https://github.com/aFarkas/html5shiv
+  3. Isotope : http://isotope.metafizzy.co
+  4. PrettyPhoto : http://www.no-margin-for-errors.com
+  5. Twitter : http://tweet.seaofclouds.com
+  6. Font awesome icon : http://fortawesome.github.com/Font-Awesome/
+  7. Flex Slider : http://www.woothemes.com/flexslider/
+  8. Parallax Content Slider : http://tympanus.net/codrops/2012/03/15/parallax-content-slider-with-css3-and-jquery/
+  9. Bootstrap : http://twitter.github.com/bootstrap/
